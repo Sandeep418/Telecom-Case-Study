@@ -1,7 +1,7 @@
 
  Analyze the telecom customer data to predict churn and retain high-profit customers.
  
-#Telecom Churn Prediction Project Overview:
+# Telecom Churn Prediction Project Overview:
 
 **Business Problem:**
 In the fiercely competitive telecom industry, retaining high-profit customers is paramount. With an annual churn rate of 15-25%, it's crucial for telecom firms to predict customer churn and take proactive measures to retain valuable subscribers. This project focuses on analyzing customer-level data, building predictive models, and identifying key indicators of churn to facilitate effective retention strategies.
